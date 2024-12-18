@@ -1,0 +1,2 @@
+# 42curses
+curses 
